@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: normal;
+src: local('Source Sans Pro'), url('fonts/SourceSansPro-Regular.woff') format('woff');
+}
+@font-face {
+font-family: 'Source Sans Pro Light';
+font-style: normal;
+font-weight: normal;
+src: local('Source Sans Pro Light'), url('fonts/SourceSansPro-Light.woff') format('woff');
+}
+@font-face {
+font-family: 'Source Sans Pro Black';
+font-style: normal;
+font-weight: normal;
+src: local('Source Sans Pro Black'), url('fonts/SourceSansPro-Black.woff') format('woff');
+}
+
